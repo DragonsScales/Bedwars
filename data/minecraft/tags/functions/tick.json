@@ -1,6 +1,8 @@
 {
   "values":[
 	"dg:diamond_timer",
-  "eg:emerald_timer"
+  "eg:emerald_timer",
+  "dg:do_spin_animation",
+  "eg:do_spin_animation"
   ]
 }
