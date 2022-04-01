@@ -1,7 +1,5 @@
 scoreboard players reset @e
 
-kill @e[type=marker,tag=diamond_timer,tag=emerald_timer]
-
 scoreboard objectives add Timer dummy "Timer (s)"
 scoreboard players set diamond_timer Timer 600
 scoreboard players set emerald_timer Timer 1300
