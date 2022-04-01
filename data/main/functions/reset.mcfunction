@@ -21,4 +21,4 @@ summon marker ~ ~ ~ {Tags:["emerald_timer"]}
 scoreboard players operation @e[type=marker,tag=diamond_timer] Timer = diamond_timer Timer
 scoreboard players operation @e[type=marker,tag=emerald_timer] Timer = emerald_timer Timer
 
-tellraw @s {"text":"Bedwars-Gens Succesfully Reset!", "color":"#00ff00"}
+tellraw @a {"text":"Bedwars-Gens Succesfully Reset!", "color":"#00ff00"}
