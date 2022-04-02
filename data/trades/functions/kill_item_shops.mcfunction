@@ -1,0 +1,1 @@
+kill @e[type=villager,tag=item_shop]
