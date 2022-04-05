@@ -1,0 +1,1 @@
+execute as @e[type=armor_stand,tag=diamond_stand] run execute at @s run tp @s ~ ~ ~ ~2 ~

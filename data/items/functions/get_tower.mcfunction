@@ -1,0 +1,1 @@
+give @s chest{BlockEntityTag:{Items:[{Slot:0b,id:"minecraft:red_wool",Count:1b,tag:{Tags:["summon_tower"]}}]}}

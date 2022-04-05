@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:armor_stand,tag=floating_emerald] run execute at @s run tp @s ~ ~ ~ ~2 ~
