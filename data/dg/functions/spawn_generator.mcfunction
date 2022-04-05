@@ -7,4 +7,4 @@
 
 summon item_frame ~ ~ ~ {Invisible:1b,Invulnerable:1b,Tags:["align"]}
 execute as @e[type=item_frame,tag=align] run summon armor_stand ~ ~1 ~ {Invisible:1b,Invulnerable:0b,Tags:["diamond_stand"],NoGravity:1b,DisabledSlots:2096896,ArmorItems:[{},{},{},{id:"minecraft:diamond_block",Count:1b}]}
-kill @e[type=item_fram,tag=align]
+kill @e[type=item_frame,tag=align]
