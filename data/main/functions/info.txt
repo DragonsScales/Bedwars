@@ -6,3 +6,7 @@
 
 
 cap 4 diamonds and 2 ems
+
+
+
+give @s skeleton_spawn_egg{EntityTag:{id:"minecraft:iron_golem"}}
