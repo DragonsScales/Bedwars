@@ -22,10 +22,6 @@ scoreboard players set gold_max Max 20
 
 #Item counts for generators
 scoreboard objectives add Count dummy "Items Count"
-scoreboard players set diamond_count Count 0
-scoreboard players set emerald_count Count 0
-scoreboard players set iron_count Count 0
-scoreboard players set gold_count Count 0
 
 #remove previous markers and resummon them
 kill @e[type=marker,tag=diamond_timer]
