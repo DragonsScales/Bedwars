@@ -1,1 +1,1 @@
-execute as @a[scores={right_click=1..},nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick",tag:{fireball:1b}}}] run function main:summon_fireball
+execute as @s if data entity @s SelectedItem{id:"minecraft:carrot_on_a_stick",tag:{fireball:1b}} at @s anchored eyes positioned ^ ^ ^ run function items:fireball/summon_fireball
