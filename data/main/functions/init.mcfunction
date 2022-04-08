@@ -4,6 +4,7 @@ scoreboard objectives add range dummy
 
 #Right click
 scoreboard objectives add right_click minecraft.used:carrot_on_a_stick
+scoreboard objectives add summoned_popup minecraft.used:chest
 
 #Generator Timers
 scoreboard objectives add Timer dummy "Timer (s)"
@@ -47,3 +48,6 @@ scoreboard objectives add motion_z1 dummy
 scoreboard objectives add motion_x2 dummy
 scoreboard objectives add motion_y2 dummy
 scoreboard objectives add motion_z2 dummy
+
+#For aligning popup towers correctly
+scoreboard objectives add rotation dummy

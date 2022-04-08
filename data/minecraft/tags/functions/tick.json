@@ -2,7 +2,6 @@
   "values":[
   "main:check_right_click",
 	"dg:diamond_timer",
-  "eg:emerald_timer",
-  "la:main"
+  "eg:emerald_timer"
   ]
 }
