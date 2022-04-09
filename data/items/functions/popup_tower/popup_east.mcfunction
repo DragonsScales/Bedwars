@@ -1,4 +1,4 @@
-execute at @s run tp @s ~ ~ ~ -90 0
+kill @s
 fill ^ ^ ^ ^ ^ ^ air replace chest
 fill ^-1 ^-1 ^ ^-1 ^-1 ^ red_wool replace air
 fill ^-1 ^-1 ^-1 ^-1 ^-1 ^-1 red_wool replace air
@@ -109,4 +109,3 @@ fill ^4 ^5 ^1 ^4 ^5 ^1 red_wool replace air
 fill ^3 ^5 ^2 ^3 ^5 ^2 red_wool replace air
 fill ^1 ^5 ^2 ^1 ^5 ^2 red_wool replace air
 fill ^-1 ^5 ^2 ^-1 ^5 ^2 red_wool replace air
-kill @s

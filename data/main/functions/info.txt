@@ -8,33 +8,9 @@
 cap 4 diamonds and 2 ems
 
 
+To get an item do /function items:get/<your_item>
 
-give @s skeleton_spawn_egg{EntityTag:{id:"minecraft:iron_golem"}}
-
-
-South = 0 // 45, -45
-North = 180/-180 // -135, 135
-East = -90 // -135, -45
-West = 90 // 135, 45
 
 
 
-180 + 90 = x / 2 = y = 85
-
-135
-45
--45
--135
-
-
-
-Popup tower blocks
-~-1 ~-1 ~
-~-1 ~-1 ~-1
-~ ~-1 ~-2
-~2 ~-1 ~-2
-~3 ~-1 ~-1
-~3 ~-1 ~
-~2 ~-1 ~1
-~1 ~-1 ~1
-~ ~-1 ~1
+give @s skeleton_spawn_egg{EntityTag:{id:"minecraft:iron_golem"}}
