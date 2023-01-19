@@ -1,0 +1,1 @@
+give @s carrot_on_a_stick{fireball:1b}
